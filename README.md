@@ -233,7 +233,7 @@ The database schema was set up as follows:
 
 ### Agile Methodology
 
-This project was developed using the Agile methodology. All epics and user stories implementation progress was tracked through Github projects Kanban Board which can be found [here](https://github.com/users/d-lynch95/projects/4/views/1).
+This project was developed using the Agile methodology. All epics and user stories implementation progress was tracked through Github projects Kanban Board which can be found [here](https://github.com/users/lucatosc/projects/4/views/1).
 
 ![KanabanBoard](docs/readme_images/PP5kanban_board.png)
 
@@ -737,13 +737,13 @@ I created a robots.txt file to assist with SEO
 ### Sitemap.xml
 I've used [MySiteMapGenerator](https://www.mysitemapgenerator.com/) to generate a sitemap.xml file. This was generated using my deployed site URL: https://blue-ocean-travel-feb523e57a47.herokuapp.com/about/
 
-After it finished crawling the entire site, it created a [sitemap.xml](https://github.com/d-lynch95/Blue_Ocean_Travel/blob/main/sitemap.xml) which I downloaded and included in the repository.
+After it finished crawling the entire site, it created a [sitemap.xml](https://github.com/lucatosc/Blue_Ocean_Travel/blob/main/sitemap.xml) which I downloaded and included in the repository.
 
 
 
 ## Testing 
 
-I created an extra [Testing](https://github.com/d-lynch95/Blue_Ocean_Travel/blob/main/Testing.md) page as the file was too large to fit in this README.
+I created an extra [Testing](https://github.com/lucatosc/Blue_Ocean_Travel/blob/main/Testing.md) page as the file was too large to fit in this README.
 
 ### BUGS
  - I encountered several bugs while creating this project.
@@ -804,14 +804,14 @@ I did not test this site on a tablet but did utilise the google chrome Dev tools
 
 I created a seperate file for validator testing as there were too many files to document in this READE
 
-[Validators](https://github.com/d-lynch95/Blue_Ocean_Travel/blob/main/validator.md)
+[Validators](https://github.com/lucatosc/Blue_Ocean_Travel/blob/main/validator.md)
 
 
 
 ### Manual Testing
 
 #### Functional Testing 
-I created a seperate [Testing.md](https://github.com/d-lynch95/Blue_Ocean_Travel/blob/main/Testing.md) file that outlines all of the tests completed
+I created a seperate [Testing.md](https://github.com/lucatosc/Blue_Ocean_Travel/blob/main/Testing.md) file that outlines all of the tests completed
 
 
 ### Unfixed Bugs
@@ -822,7 +822,7 @@ I created a seperate [Testing.md](https://github.com/d-lynch95/Blue_Ocean_Travel
 
 I created a seperate file to outline the deployment process as it was too long to detail all of the steps here
 
-[Deployment](https://github.com/d-lynch95/Blue_Ocean_Travel/blob/main/deployment.md)
+[Deployment](https://github.com/lucatosc/Blue_Ocean_Travel/blob/main/deployment.md)
 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -908,7 +908,7 @@ The live link can be found here - [Blue Ocean Travel](https://blue-ocean-travel-
 
 - The outline template for the Python was provided by the [Code Institiute](https://www.codeinstitute.com)
 
-- The hero image code was taken from my [PP1](https://github.com/d-lynch95/Portfolio-1-GreatOceanRoadsters/blob/main/css/style.css)
+- The hero image code was taken from my [PP1](https://github.com/lucatosc/Portfolio-1-GreatOceanRoadsters/blob/main/css/style.css)
 
 - I also took a lot of inspiration from the Code institute Boutique Ado Walk through [Code Institiute](https://www.codeinstitute.com)
 
